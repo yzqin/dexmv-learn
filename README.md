@@ -1,6 +1,6 @@
 # Code for the learning algorithm for DexMV project
 
-# Please refer to [dexmv-sim](https://github.com/yzqin/dexmv-sim) for more information and instruction on how to use this code.
+Please refer to [dexmv-sim](https://github.com/yzqin/dexmv-sim) for more information and instruction on how to use this code.
 
 [[Project Page]](https://yzqin.github.io/dexmv/) [[Paper]](https://arxiv.org/abs/2108.05877) [[Demonstration Files]](https://drive.google.com/file/d/1v-SezFDQBcgekHZBlqulqa8rIgn0iwRT/view?usp=sharing)
 -----
